@@ -1,5 +1,5 @@
 # Conway's-Game-of-Life
-i wanted to switch from using swing to the more modern and easy to use javaFX, plus I always wanted to code this, so far my favorite side project
+implementation of Conways game of life using JavaFX.
 
-currently load and save doesnt work, i want to implement a drawing system where you can set up your own initial cell setup
-instead of doing random cells
+Currently load and save doesnt work, I want to implement a drawing system where you can set up your own initial cell setup
+instead of doing random cells.
